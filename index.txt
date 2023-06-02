@@ -2,8 +2,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Travail pratique - Sam</title>
-    <style>
       html { color-scheme: light dark; }
       body {
         width: 35em;
@@ -14,10 +12,7 @@
     </style>
   </head>
   <body>
-    <div style="text-align: center;">
-      <h1>Travail pratique - Sam</h1>
-      <p>Le serveur HTTP nginx est maintenant fonctionnel !</p>
-    </div>
+    <div style="text-alig
   </body>
 </html>
 
@@ -28,8 +23,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Travail pratique - Sam</title>
-    <style>
+    <title>Travail pratique
       html { color-scheme: light dark; }
       body {
         width: 35em;
@@ -40,9 +34,7 @@
     </style>
   </head>
   <body>
-    <div style="text-align: center;">
-      <h1>Travail pratique - Sam</h1>
-      <p>Le serveur HTTP Apache2 fonctionne aussi !</p>
+    <div style="text-align:ssi !</p>
     </div>
   </body>
 </html>
@@ -52,9 +44,3 @@
 ---------------------------
 
 
-
-Nuanced Light Yellow: #fff9c2
-Nuanced Light Orange: #ffe5c2
-Nuanced Light Blue: #c2dfff
-Nuanced Light Black: #c2c2c2
-Nuanced Light Cherry: #ffc2df
