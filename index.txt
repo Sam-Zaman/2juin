@@ -1,0 +1,60 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Travail pratique - Sam</title>
+    <style>
+      html { color-scheme: light dark; }
+      body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+        background-color: #e5ffe5; /* nuanced light green */
+      }
+    </style>
+  </head>
+  <body>
+    <div style="text-align: center;">
+      <h1>Travail pratique - Sam</h1>
+      <p>Le serveur HTTP nginx est maintenant fonctionnel !</p>
+    </div>
+  </body>
+</html>
+
+-------------------------
+
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Travail pratique - Sam</title>
+    <style>
+      html { color-scheme: light dark; }
+      body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+        background-color: #ffe5c2; /* nuanced light red */
+      }
+    </style>
+  </head>
+  <body>
+    <div style="text-align: center;">
+      <h1>Travail pratique - Sam</h1>
+      <p>Le serveur HTTP Apache2 fonctionne aussi !</p>
+    </div>
+  </body>
+</html>
+
+
+
+---------------------------
+
+
+
+Nuanced Light Yellow: #fff9c2
+Nuanced Light Orange: #ffe5c2
+Nuanced Light Blue: #c2dfff
+Nuanced Light Black: #c2c2c2
+Nuanced Light Cherry: #ffc2df
