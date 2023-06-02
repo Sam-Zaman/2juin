@@ -1,38 +1,3 @@
-
-<!DOCTYPE html>
-<html>
-  <head>
-      html { color-scheme: light dark; }
-      body {
-        width: 35em;
-        margin: 0 auto;
-        font-family: Tahoma, Verdana, Arial, sans-serif;
-        background-color: #e5ffe5; /* nuanced light green */
-      }
-    </style>
-  </head>
-  <body>
-    <div style="text-alig
-  </body>
-</html>
-
--------------------------
-
-
-
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Travail pratique
-      html { color-scheme: light dark; }
-      body {
-        width: 35em;
-        margin: 0 auto;
-        font-family: Tahoma, Verdana, Arial, sans-serif;
-        background-color: #ffe5c2; /* nuanced light red */
-      }
-    </style>
-  </head>
   <body>
     <div style="text-align:ssi !</p>
     </div>
